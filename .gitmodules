@@ -1,0 +1,12 @@
+[submodule "VASSAR_lib"]
+	path = VASSAR_lib
+	url = https://github.com/seakers/VASSAR_lib
+[submodule "VASSAR_resources"]
+	path = VASSAR_resources
+	url = https://github.com/seakers/VASSAR_resources
+[submodule "instrupy"]
+	path = instrupy
+	url = https://github.com/EarthObservationSimulator/instrupy
+[submodule "multi-instruments-soil-moisture-retrieval"]
+	path = multi-instruments-soil-moisture-retrieval
+	url = https://bgorr@bitbucket.org/usc_mixil/multi-instruments-soil-moisture-retrieval.git
